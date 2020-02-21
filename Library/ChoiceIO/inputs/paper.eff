@@ -1,0 +1,36 @@
+Below is a breakdown of the preliminary housing costs for 2018-2019.
+#if meal
+    #if partial
+        $1,902
+    #else
+        $3372
+    #endif
+#endif
+#if artists' residence
+    Partial (default) or optional regular meal plan. 
+    Total Including Activity/Technology Fee:
+    #if single | efficiency
+        $13,360
+    #else
+        $12,216
+    #endif
+#endif
+#if smith
+    Regular meal plan required, except for students living in kitchen suites. 
+    Kitchen suite students receive the partial (default) 
+    or optional regular meal plan.
+    Total Including Activity/Technology Fee:
+    #if kitchen
+        #if single
+            $11,234
+        #else
+            $10,530
+        #endif
+    #else
+        #if single 
+            $13,360
+        #else
+            $11,002
+        #endif
+    #endif
+#endif

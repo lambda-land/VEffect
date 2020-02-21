@@ -1,0 +1,27 @@
+Welcom all
+#if B & A 
+#if ~ C
+Hello
+#else
+Hi
+#endif
+#else
+#if C
+How are you
+#else
+How are you doing
+#endif
+#endif
+#if B
+#if A
+Good morning
+#else
+Good afternoon
+#endif
+#else
+#if A
+Bye
+#else
+See you
+#endif
+#endif

@@ -1,0 +1,16 @@
+Hi
+#if Student
+Welcome to class of 2019
+Look up the room number
+#else
+Visitors are welcomed
+#endif
+#if New
+room 114
+#else
+#if Elementary
+room 115
+#else
+room 200
+#endif
+#endif

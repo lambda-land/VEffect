@@ -1,0 +1,23 @@
+#if B
+#if A
+Line1
+#else
+#endif
+#else
+#if A
+#else
+#endif
+#endif
+#if D
+#if C
+Line2
+#else
+Line3
+#endif
+#else
+#if C
+Line2
+#else
+Line4
+#endif
+#endif

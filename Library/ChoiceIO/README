@@ -1,0 +1,15 @@
+* Change the path to Eff as needed 
+
+
+make ChcRead
+
+make ReadFile
+
+make ReadEx
+
+make ChcWrite
+
+make ChcWriteEX
+
+
+

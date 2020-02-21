@@ -1,0 +1,13 @@
+#if B
+#if A
+Hello
+#else
+Hi
+#endif
+#else
+#if A
+Hello
+#else
+Ghadeer
+#endif
+#endif

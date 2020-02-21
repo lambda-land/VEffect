@@ -1,0 +1,7 @@
+* Change the path to Eff as needed 
+
+make Chc
+
+make ChcCount
+
+make ChcExamples

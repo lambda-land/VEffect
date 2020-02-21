@@ -1,0 +1,9 @@
+Below is a breakdown of the preliminary housing costs for 2018-2019.
+#if meal
+#if partial
+$1,902
+#else
+$3372
+#endif
+#else
+#endif

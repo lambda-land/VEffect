@@ -1,0 +1,22 @@
+#if artists' residence
+    #if single | efficiency
+        $13,360
+    #else
+        $12,216
+    #endif
+#endif
+#if smith
+    #if kitchen
+        #if single
+            $11,234
+        #else
+            $10,530
+        #endif
+    #else
+        #if single 
+            $13,360
+        #else
+            $11,002
+        #endif
+    #endif
+#endif
